@@ -17,7 +17,6 @@ jenkins_server_domain = "tst-ci.th.gov.bc.ca"
 sonar_admin_username = "admin"
 sonar_admin_password = "test"
 sonar_auth = "false"
-zap_session_name = "zap_session"
 
 #parse info
 url = "https://" + jenkins_server_domain + "/jenkins/job/"+ jenkins_project_name +"/configure"
@@ -49,55 +48,37 @@ browser.find_element_by_xpath("//button[text()='log in']").click()
 #browser.find_element_by_xpath("//button[text()='Add build step']").click()
 #browser.find_element_by_xpath("//a[text()='Execute SonarQube Scanner']").click();
 
-#fill in the configuration and quit + loading configuration wait
+#fill in the configuration and quit + loading configure wait
 try:
 	#killing the save button
 	stupid = WebDriverWait(browser, 15).until(
 		expected_conditions.element_to_be_clickable((By.XPATH, "//div[@class='bottom-sticker-inner']")))
-
 	browser.execute_script("arguments[0].style = arguments[1]", stupid, "display: none;")
+
 	time.sleep(1)
 
-	browser.find_element_by_xpath("//button[text()='Add build step']").click()
-	browser.find_element_by_xpath("//a[text()='Execute SonarQube Scanner']").click();
-
-	browser.find_element_by_xpath("//button[text()='Add build step']").click()
-	browser.find_element_by_xpath("//a[text()='Execute ZAP']").click();
-
-	print ("Adding SonarQube/Owasp ZAP build step finishes!")
+	print ("Wait phase 1 finishes!")
 
 except TimeoutException:
-	print ("Loading configure page took too much time!")
+	print ("Loading took too much time!")
 
-#sonar
+browser.find_element_by_xpath("//button[text()='Add build step']").click()
+browser.find_element_by_xpath("//a[text()='Execute SonarQube Scanner']").click();
+browser.find_element_by_xpath("//a[text()='Execute ZAP']").click()
+
+#wait for soanr plugin-load
 try:
+	execute_sonar = WebDriverWait(browser, 15).until(
+		expected_conditions.element_to_be_clickable((By.XPATH, "//a[text()='Execute SonarQube Scanner']")))
+	execute_sonar.click()
+
 	sonar_properties = WebDriverWait(browser, 15).until(
 		expected_conditions.element_to_be_clickable((By.XPATH, "//textarea[@name='_.properties']")))
 	sonar_properties.send_keys(properties);
 
 	browser.find_element_by_xpath("//input[@id='textarea._.additionalArguments']").send_keys("-X")
 
-	print ("sonar plugin configuration finished!")
-
-except TimeoutException:
-	print ("Sonar plugin-load timeout !")
-
-#zap
-try:
-	custom_tools_installation = WebDriverWait(browser, 15).until(
-		expected_conditions.element_to_be_clickable((By.XPATH, "//label[normalize-space(text())='System Installed: ZAP Installation Directory']/input")))
-	custom_tools_installation.click()
-
-
-	browser.find_element_by_xpath("//input[@name='_.zapSettingsDir']").send_keys("d:\\Jenkins_ci\\ZedAttackProxy")
-
-	persist_session = browser.find_element_by_xpath("//label[normalize-space(text())='Persist Session']/input")
-	print("clicking")
-	persist_session.click()
-	print("clicked")
-	# time.sleep(1)
-	# browser.find_element_by_xpath("//input[@checkdependson='sessionFilename']").send_keys(zap_session_name)
-	# print ("sonar plugin configuration finished!")
+	print ("sonar plugin-loaded!")
 
 except TimeoutException:
 	print ("Sonar plugin-load timeout !")
