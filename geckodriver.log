@@ -960,3 +960,1407 @@ Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openv
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1510968833329	geckodriver	INFO	geckodriver 0.19.1
+1510968833345	geckodriver	INFO	Listening on 127.0.0.1:65534
+1510968835357	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.XjDRf4ZLDp9M"
+1510968836681	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Could not get a DXGI adapter
+1510968839319	Marionette	INFO	Listening on port 49161
+1510968839485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510968839538	Marionette	DEBUG	Register listener.js for window 4294967297
+1510968839560	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510968842340	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510968842340	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510968842345	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1510968842348	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1510968852507	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1510968852767	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1510968852847	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1510968858075	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510968865587	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510968865818	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510968866057	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510968866274	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510968867664	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510968867945	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511196919490	geckodriver	INFO	geckodriver 0.19.1
+1511196919490	geckodriver	INFO	Listening on 127.0.0.1:64804
+1511196921752	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.twOmoMNIKmmR"
+1511196923195	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511196929636	Marionette	INFO	Listening on port 64810
+1511196929702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511196930609	Marionette	DEBUG	Register listener.js for window 4294967297
+1511196930729	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511196930922	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511196930923	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511196930930	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511196930933	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511196931904	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511196931963	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511196932072	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511196937277	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511196944630	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511196944881	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511196945118	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511196945338	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511196947770	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511196948036	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511197354047	geckodriver	INFO	geckodriver 0.19.1
+1511197354063	geckodriver	INFO	Listening on 127.0.0.1:64926
+1511197356075	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.tQnsUheXK2OL"
+1511197357383	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Could not get a DXGI adapter
+1511197359862	Marionette	INFO	Listening on port 64932
+1511197360257	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511197360313	Marionette	DEBUG	Register listener.js for window 4294967297
+1511197360333	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511197360478	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511197360478	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511197360485	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511197360489	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511197361206	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511197361255	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511197361340	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511197366555	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197374863	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197375096	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197375341	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197375561	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197377080	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197377335	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 6448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+1511197565880	geckodriver	INFO	geckodriver 0.19.1
+1511197565880	geckodriver	INFO	Listening on 127.0.0.1:65019
+1511197567955	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.PqJnpEjLY2yO"
+1511197569457	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511197572286	Marionette	INFO	Listening on port 65025
+1511197573251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511197573293	Marionette	DEBUG	Register listener.js for window 4294967297
+1511197573314	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511197573389	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511197573389	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511197573396	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511197573399	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511197573838	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511197573921	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511197574005	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511197579219	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197585970	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197586205	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197586442	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197586661	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197588123	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197588391	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+1511197664044	geckodriver	INFO	geckodriver 0.19.1
+1511197664060	geckodriver	INFO	Listening on 127.0.0.1:65106
+1511197666306	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.ffwMdABCaXF0"
+1511197667632	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511197670219	Marionette	INFO	Listening on port 65113
+1511197670479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511197670522	Marionette	DEBUG	Register listener.js for window 4294967297
+1511197670540	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511197670714	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511197670714	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511197670722	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511197670725	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511197671208	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511197671286	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511197671378	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511197676584	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197683632	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197683859	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197684096	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197684320	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197685781	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197686048	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+1511197764086	geckodriver	INFO	geckodriver 0.19.1
+1511197764101	geckodriver	INFO	Listening on 127.0.0.1:65195
+1511197766238	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.Y2uSQJoibUn9"
+1511197767700	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511197770267	Marionette	INFO	Listening on port 65201
+1511197770398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511197770449	Marionette	DEBUG	Register listener.js for window 4294967297
+1511197770472	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511197770685	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511197770686	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511197770697	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511197770700	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511197771219	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511197771268	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511197771352	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511197776565	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197783638	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197783869	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197784105	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197784331	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197785753	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197786041	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+1511197945106	geckodriver	INFO	geckodriver 0.19.1
+1511197945106	geckodriver	INFO	Listening on 127.0.0.1:65289
+1511197947244	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.vLiI2kyyeIVp"
+1511197948441	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511197951043	Marionette	INFO	Listening on port 65295
+1511197951400	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511197951443	Marionette	DEBUG	Register listener.js for window 4294967297
+1511197951464	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511197951550	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511197951551	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511197951559	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511197951562	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511197952068	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511197952147	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511197952223	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511197957429	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197963615	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197963836	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197964072	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197964302	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197965728	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511197965998	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+1511198568754	geckodriver	INFO	geckodriver 0.19.1
+1511198568754	geckodriver	INFO	Listening on 127.0.0.1:65408
+1511198570907	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.LF3uCGzdpSnd"
+1511198572311	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511198574957	Marionette	INFO	Listening on port 65414
+1511198575096	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511198575150	Marionette	DEBUG	Register listener.js for window 4294967297
+1511198575178	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511198575433	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511198575433	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511198575441	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511198575444	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511198575941	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511198575987	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511198576064	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511198577211	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511198577241	Marionette	DEBUG	Received DOM event "pagehide" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511198577242	Marionette	DEBUG	Received DOM event "unload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511198577244	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1511198577245	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+1511198594223	geckodriver	INFO	geckodriver 0.19.1
+1511198594223	geckodriver	INFO	Listening on 127.0.0.1:65454
+1511198596329	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.n5i3S2xlUYFz"
+1511198597036	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511198599770	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281
+Promise rejected while context is inactive: Message manager disconnected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511198599825	Marionette	INFO	Listening on port 65460
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/crypto-SDR.js, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIPK11TokenDB.getInternalKeyToken]
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/storage-json.js, line 89: Error: Initialization failed
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsLoginManager.js, line 129: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Initialization failed" {file: "jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/storage-json.js" line: 89}]'[JavaScript Error: "Initialization failed" {file: "jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/storage-json.js" line: 89}]' when calling method: [nsILoginManagerStorage::initialize]
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 324: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 324: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/PlacesUtils.jsm, line 1931: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsPIPlacesDatabase.connectionShutdownClient]
+JavaScript error: resource://gre/modules/BookmarkHTMLUtils.jsm, line 911: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.removeFolderChildren]
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 158: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 158: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 158: Error: Data is not ready.
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 251: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Data is not ready." {file: "resource://gre/modules/JSONFile.jsm" line: 158}]'[JavaScript Error: "Data is not ready." {file: "resource://gre/modules/JSONFile.jsm" line: 158}]' when calling method: [nsIHandlerService::store]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511198944643	geckodriver	INFO	geckodriver 0.19.1
+1511198944659	geckodriver	INFO	Listening on 127.0.0.1:49319
+1511198946722	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.XNxFtXavpHb6"
+1511198948038	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511198950948	Marionette	INFO	Listening on port 49325
+1511198952039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511198952083	Marionette	DEBUG	Register listener.js for window 4294967297
+1511198952100	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511198952179	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511198952180	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511198952188	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511198952191	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511198952655	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511198952738	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511198952818	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511198958026	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511198964274	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511198964506	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511198964745	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511198964965	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511198966443	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511198967727	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511199063626	geckodriver	INFO	geckodriver 0.19.1
+1511199063641	geckodriver	INFO	Listening on 127.0.0.1:49406
+1511199065778	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.ID6tGTemBbFw"
+1511199066720	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511199069275	Marionette	INFO	Listening on port 49412
+1511199069453	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511199069506	Marionette	DEBUG	Register listener.js for window 4294967297
+1511199069533	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511199069610	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511199069610	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511199069616	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511199069621	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511199070158	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511199070205	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511199070288	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511199075500	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511199082157	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511199082384	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511199082622	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511199082841	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511199084308	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511199085596	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511199309902	geckodriver	INFO	geckodriver 0.19.1
+1511199309912	geckodriver	INFO	Listening on 127.0.0.1:49606
+1511199311983	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.wS5EaXQKG7Y4"
+1511199313397	Marionette	INFO	Enabled via --marionette
+1511199316183	Marionette	INFO	Listening on port 49612
+1511199317206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511199317261	Marionette	DEBUG	Register listener.js for window 4294967297
+1511199317291	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511199317366	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511199317367	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511199317374	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511199317382	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511199317891	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511199317950	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511199318065	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511199323273	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511199330113	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511199330347	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511199330625	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511199330849	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511199332369	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511199333652	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511199648971	geckodriver	INFO	geckodriver 0.19.1
+1511199648987	geckodriver	INFO	Listening on 127.0.0.1:49745
+1511199651093	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.Qv7yBMdsrdJz"
+1511199652126	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511199654764	Marionette	INFO	Listening on port 49751
+1511199655250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511199655293	Marionette	DEBUG	Register listener.js for window 4294967297
+1511199655313	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511199655448	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511199655449	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511199655455	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511199655458	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511199656017	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511199656117	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511199656198	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511199661411	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511199667190	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511199667415	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511199667650	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511199667873	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/buil1511199844463	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511199848363	Marionette	INFO	Listening on port 49848
+1511199848613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511199848674	Marionette	DEBUG	Register listener.js for window 4294967297
+1511199848705	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511199848929	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511199848929	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511199848938	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511199848941	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511199849466	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511199849527	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511199849621	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511199854830	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511199868775	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511199869011	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511199869252	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511199869477	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3909: TypeError: this.tabs is undefined
+[Parent 9568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+mmon/ipc_channel_win.cc, line 346
+1511200047458	Marionette	INFO	Listening on port 50027
+1511200048546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511200049994	Marionette	DEBUG	Register listener.js for window 4294967297
+1511200050042	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511200050170	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511200050170	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511200050177	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511200050182	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511200050911	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511200050988	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511200051104	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511200056318	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200063091	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200063314	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200063548	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200063768	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200068224	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511200171179	geckodriver	INFO	geckodriver 0.19.1
+1511200171194	geckodriver	INFO	Listening on 127.0.0.1:50110
+1511200173254	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.zzE2uMVjHkJD"
+1511200176167	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511200180215	Marionette	INFO	Listening on port 50116
+1511200180683	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511200180734	Marionette	DEBUG	Register listener.js for window 4294967297
+1511200180755	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511200180896	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511200180897	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511200180903	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511200180906	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511200181428	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511200181494	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511200181611	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511200186822	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200193896	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200194122	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200194358	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200194577	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200195995	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200196220	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3909: TypeError: this.tabs is undefined
+[Parent 12108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511200264319	geckodriver	INFO	geckodriver 0.19.1
+1511200264335	geckodriver	INFO	Listening on 127.0.0.1:50201
+1511200266519	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.gK7hcAlX84Do"
+1511200267332	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511200269859	Marionette	INFO	Listening on port 50207
+1511200270181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511200270226	Marionette	DEBUG	Register listener.js for window 4294967297
+1511200270246	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511200270327	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511200270327	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511200270333	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511200270337	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511200270833	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511200270887	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511200270977	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511200276194	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200282864	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200283086	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200283326	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200283546	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200285010	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200285270	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511200352748	Marionette	INFO	Listening on port 50298
+1511200353057	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511200353111	Marionette	DEBUG	Register listener.js for window 4294967297
+1511200353127	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511200353219	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511200353219	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511200353228	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511200353232	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511200353769	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511200353809	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11624, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+74035	Marionette	INFO	Listening on port 50340
+1511200374978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511200375133	Marionette	DEBUG	Register listener.js for window 4294967297
+1511200375251	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511200375321	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511200375321	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511200375328	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511200375335	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511200375844	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511200375891	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511200376001	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511200381209	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200387631	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200387864	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200388103	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200388323	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200389724	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200393986	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3909: TypeError: this.tabs is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserializUnable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511200969401	Marionette	INFO	Listening on port 50462
+1511200969876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511200969922	Marionette	DEBUG	Register listener.js for window 4294967297
+1511200969988	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511200970144	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511200970144	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511200970153	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511200970157	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511200970618	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511200970718	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511200970818	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511200976028	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200982286	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200982515	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200982765	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200982986	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200984476	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511200988743	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3909: TypeError: this.tabs is undefined
+[Parent 9444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\open1511201097174	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511201100137	Marionette	INFO	Listening on port 50550
+1511201100167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511201100229	Marionette	DEBUG	Register listener.js for window 4294967297
+1511201100389	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511201100496	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511201100497	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511201100505	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511201100509	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511201101110	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511201101155	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511201101227	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511201106441	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201112994	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201113222	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201113461	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201113681	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201115146	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201115410	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3909: TypeError: this.tabs is undefined
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511201457668	Marionette	INFO	Listening on port 50648
+1511201458029	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511201458082	Marionette	DEBUG	Register listener.js for window 4294967297
+1511201458099	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511201458221	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511201458221	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511201458230	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511201458234	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511201458843	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511201458870	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511201458961	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511201464172	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201471312	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201471540	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201471779	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201471997	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201473434	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201473704	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511201520408	geckodriver	INFO	geckodriver 0.19.1
+1511201520424	geckodriver	INFO	Listening on 127.0.0.1:50734
+1511201522546	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.ebytEnykn20e"
+1511201523282	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511201526289	Marionette	INFO	Listening on port 50740
+1511201526708	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511201526753	Marionette	DEBUG	Register listener.js for window 4294967297
+1511201526772	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511201526846	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511201526847	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511201526853	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511201526858	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511201527308	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511201527390	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511201527473	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511201532687	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201539227	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201539455	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201539688	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201539911	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201541532	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201541838	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3909: TypeError: this.tabs is undefined
+[Parent 8196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_cha1511201832804	Marionette	INFO	Enabled via --marionette
+1511201836730	Marionette	INFO	Listening on port 50910
+1511201836942	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511201837007	Marionette	DEBUG	Register listener.js for window 4294967297
+1511201837041	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511201837171	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511201837171	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511201837181	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511201837186	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511201837854	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511201837934	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511201838031	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511201843241	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201850335	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201850561	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201850798	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201851018	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201852434	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201852711	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3909: TypeError: this.tabs is undefined
+[Parent 7896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511201866542	geckodriver	INFO	geckodriver 0.19.1
+1511201866542	geckodriver	INFO	Listening on 127.0.0.1:50991
+1511201868710	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.Rzu5DRs9FrSo"
+1511201869550	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511201872134	Marionette	INFO	Listening on port 50997
+1511201872394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511201872439	Marionette	DEBUG	Register listener.js for window 4294967297
+1511201872457	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511201872553	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511201872553	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511201872559	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511201872561	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511201873044	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511201873094	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511201873182	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511201878391	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201884581	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201884823	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201885064	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201885285	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201886696	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511201886965	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode33, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode33, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode33, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode33, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode33, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode79, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode79, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode80, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode80, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode61, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode33, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode33, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode33, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode33, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode61, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode80, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode80, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode79, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode79, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode33, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+694	Marionette	DEBUG	Register listener.js for window 4294967297
+1511202504725	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511202504848	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511202504848	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511202504859	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511202504863	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511202505421	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511202505467	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511202505570	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511202510778	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511202517054	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511202517288	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511202517521	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511202517750	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511202519221	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511202519514	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3909: TypeError: this.tabs is undefined
+[Parent 7252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+bc.ca/jenkins/job/slave/configure"
+1511202539948	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511202540014	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511202540147	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511202545360	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511202554701	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511202554942	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511202555180	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511202555399	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511202556931	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511202557170	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3909: TypeError: this.tabs is undefined
+[Parent 11504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511202952775	geckodriver	INFO	geckodriver 0.19.1
+1511202952790	geckodriver	INFO	Listening on 127.0.0.1:51356
+1511202954959	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.b0ZWByV8aeSR"
+1511202956425	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511202959804	Marionette	INFO	Listening on port 51362
+1511202960274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511202960325	Marionette	DEBUG	Register listener.js for window 4294967297
+1511202960353	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511202960758	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511202960759	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511202960766	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511202960769	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511202961283	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511202961345	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511202961440	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511202966646	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511202973087	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511202973319	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511202973552	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511202973770	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511202975253	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511202975535	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3909: TypeError: this.tabs is undefined
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5928, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511203089730	geckodriver	INFO	geckodriver 0.19.1
+1511203089746	geckodriver	INFO	Listening on 127.0.0.1:51512
+1511203091961	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.CYbA3uMf8Vri"
+1511203092638	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511203095165	Marionette	INFO	Listening on port 51518
+1511203095681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511203095732	Marionette	DEBUG	Register listener.js for window 4294967297
+1511203095758	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511203095837	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511203095837	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511203095845	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511203095852	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511203096737	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511203096785	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511203096876	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511203102085	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203108308	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203108536	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203108779	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203108998	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203110488	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203110711	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3909: TypeError: this.tabs is undefined
+[Parent 6292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511203264982	geckodriver	INFO	geckodriver 0.19.1
+1511203264998	geckodriver	INFO	Listening on 127.0.0.1:51625
+1511203267166	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.P2fAhDboAfNM"
+1511203267796	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511203270235	Marionette	INFO	Listening on port 51631
+1511203270346	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511203270405	Marionette	DEBUG	Register listener.js for window 4294967297
+1511203270438	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511203270521	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511203270521	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511203270527	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511203270531	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511203271058	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511203271105	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511203271198	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511203276410	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511203351401	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x440006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1511203357589	geckodriver	INFO	geckodriver 0.19.1
+1511203357604	geckodriver	INFO	Listening on 127.0.0.1:51712
+1511203359741	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.5hzHqiUSgHln"
+1511203360378	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511203362898	Marionette	INFO	Listening on port 51718
+1511203363387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511203363435	Marionette	DEBUG	Register listener.js for window 4294967297
+1511203363468	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511203377242	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511203377242	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511203377249	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511203377252	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511203382397	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511203385414	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511203385497	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511203390721	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+1511203426589	geckodriver	INFO	geckodriver 0.19.1
+1511203426589	geckodriver	INFO	Listening on 127.0.0.1:51801
+1511203428726	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.aXTeBk5isyUt"
+1511203429376	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511203432295	Marionette	INFO	Listening on port 51808
+1511203432421	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511203432467	Marionette	DEBUG	Register listener.js for window 4294967297
+1511203432490	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511203432570	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511203432571	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511203432577	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511203432582	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511203433180	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511203433221	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511203433319	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511203438537	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203444691	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203444923	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203445158	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203445377	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203446835	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203447061	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203447308	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511203508408	geckodriver	INFO	geckodriver 0.19.1
+1511203508424	geckodriver	INFO	Listening on 127.0.0.1:51893
+1511203510546	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.Dm0aWWC6ji9t"
+1511203511235	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511203514253	Marionette	INFO	Listening on port 51899
+1511203514741	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511203514791	Marionette	DEBUG	Register listener.js for window 4294967297
+1511203514811	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511203514895	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511203514896	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511203514903	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511203514906	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511203515395	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511203515479	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511203515569	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511203520774	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203527048	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203527300	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203527541	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203527760	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203529228	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203529451	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203529698	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203529916	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3909: TypeError: this.tabs is undefined
+[Parent 11424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11424, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511203617236	geckodriver	INFO	geckodriver 0.19.1
+1511203617236	geckodriver	INFO	Listening on 127.0.0.1:51989
+1511203619342	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.otLskgorn4PL"
+1511203619962	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511203622617	Marionette	INFO	Listening on port 51995
+1511203622984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511203623034	Marionette	DEBUG	Register listener.js for window 4294967297
+1511203623053	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511203623148	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511203623149	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511203623158	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511203623160	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511203623644	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511203623729	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511203623827	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511203629041	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203635632	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203635860	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203636096	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203636317	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203637777	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203638034	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3909: TypeError: this.tabs is undefined
+[Parent 12144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511203658161	geckodriver	INFO	geckodriver 0.19.1
+1511203658161	geckodriver	INFO	Listening on 127.0.0.1:52072
+1511203660252	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.3wVEm8VJnMA5"
+1511203660870	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511203663863	Marionette	INFO	Listening on port 52078
+1511203663903	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511203663960	Marionette	DEBUG	Register listener.js for window 4294967297
+1511203664104	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511203664304	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511203664304	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511203664310	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511203664313	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511203666598	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511203666686	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511203666778	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511203671983	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203679048	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203679280	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203679514	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203679734	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203681137	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203681399	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511203681618	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3909: TypeError: this.tabs is undefined
+[Parent 8572, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511204073550	geckodriver	INFO	geckodriver 0.19.1
+1511204073550	geckodriver	INFO	Listening on 127.0.0.1:52232
+1511204075532	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.AD7mNEffAdJo"
+1511204076196	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Could not get a DXGI adapter
+1511204080447	Marionette	INFO	Listening on port 52238
+1511204080833	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511204080882	Marionette	DEBUG	Register listener.js for window 4294967297
+1511204080900	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511204081256	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511204081256	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511204081262	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511204081265	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511204082228	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511204082403	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511204082484	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511204087697	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204093839	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204094081	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204094324	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204094543	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204096021	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204096298	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204096516	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3909: TypeError: this.tabs is undefined
+[Parent 10304, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10304, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511204136817	geckodriver	INFO	geckodriver 0.19.1
+1511204136833	geckodriver	INFO	Listening on 127.0.0.1:52318
+1511204138954	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.zgb8Qn6lFfq3"
+1511204139614	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511204142357	Marionette	INFO	Listening on port 52324
+1511204142643	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511204142694	Marionette	DEBUG	Register listener.js for window 4294967297
+1511204142713	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511204142834	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511204142835	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511204142848	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511204142852	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511204143351	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511204143431	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511204143515	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511204148720	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204154912	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204155147	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204155382	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204155600	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204157089	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204157342	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204157559	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://tst-ci.th.gov.bc.ca
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3909: TypeError: this.tabs is undefined
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511204642115	geckodriver	INFO	geckodriver 0.19.1
+1511204642115	geckodriver	INFO	Listening on 127.0.0.1:52433
+1511204644283	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.hkB700coVUFP"
+1511204644929	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511204647935	Marionette	INFO	Listening on port 52439
+1511204648059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511204648116	Marionette	DEBUG	Register listener.js for window 4294967297
+1511204648142	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511204648407	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511204648407	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511204648414	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511204648416	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511204649054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511204649101	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511204649180	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511204654390	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204661443	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204661673	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204661912	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204662131	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204663592	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204663848	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204664066	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3909: TypeError: this.tabs is undefined
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511204838016	geckodriver	INFO	geckodriver 0.19.1
+1511204838016	geckodriver	INFO	Listening on 127.0.0.1:52538
+1511204840137	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SIMSHEN\\AppData\\Local\\Temp\\rust_mozprofile.oKyfPcughWEQ"
+1511204840983	Marionette	INFO	Enabled via --marionette
+1511204844439	Marionette	INFO	Listening on port 52544
+1511204845480	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511204845529	Marionette	DEBUG	Register listener.js for window 4294967297
+1511204845548	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511204845624	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511204845624	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511204845630	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511204845635	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/job/slave/configure"
+1511204846444	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511204846540	Marionette	DEBUG	Received DOM event "pageshow" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511204846625	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tst-ci.th.gov.bc.ca/jenkins/login?from=%2Fjenkins%2Fjob%2Fslave%2Fconfigure"
+1511204851838	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204859312	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204859540	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204859777	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204860051	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204861411	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204861737	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511204861969	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3909: TypeError: this.tabs is undefined
+[Parent 11644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_ch1511205007783	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\SIMSHEN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511205010375	Marionette	INFO	Listening on port 52660
+15112
