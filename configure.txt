@@ -1,0 +1,25 @@
+#user parameteres
+
+jenkins_username = SIMSHEN
+jenkins_password = Zsh462404
+driver_path = C:/Users/SIMSHEN/Downloads/AutoWebSlave/geckodriver.exe
+jenkins_project_name = slave
+session_context_name = Demo
+session_include_in_context = http://rip-my-professor.herokuapp.com.*
+website_login_name = hshen
+website_login_password = 1234qwer
+website_logged_in_indicator = \Q<title>Site administration | Django site admin</title>\E
+login_form_target = http://rip-my-professor.herokuapp.com/admin/login/?next=/admin/
+username_parameter = username
+password_parameter = password
+starting_point = http://rip-my-professor.herokuapp.com/admin/
+
+#optional parameters
+
+jenkins_project_initial_version = 1.0
+jenkins_server_domain = tst-ci.th.gov.bc.ca
+sonar_admin_username = admin
+sonar_admin_password = test
+sonar_auth = false
+session_name = zap_session
+authentication_required = True

@@ -5,9 +5,9 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
 import os, time
 
-def set_up_driver(firefox_driver):
+def set_up_driver(chrome_driver):
 
-	os.environ["webdriver.firefox.driver"] = firefox_driver
+	os.environ["webdriver.chrome.driver"] = chrome_driver
 
 
 def jenkins_login(jenkins_username, jenkins_password):
@@ -23,21 +23,17 @@ def jenkins_login(jenkins_username, jenkins_password):
 
 def add_build_steps(browser):
 
-	add_build_step_button = WebDriverWait(browser, 150).until(
-			expected_conditions.element_to_be_clickable((By.XPATH, "//button[text()='Add build step']")))
-
 	if (not SonarQube_AlreadyExsist(browser)):
-
-		add_build_step_button.click()
+		WebDriverWait(browser, 150).until(
+			expected_conditions.element_to_be_clickable((By.XPATH, "//button[text()='Add build step']"))).click()
 		WebDriverWait(browser, 150).until(
 			expected_conditions.element_to_be_clickable((By.XPATH, "//a[text()='Execute SonarQube Scanner']"))).click()
 
 	if (not ZAP_AlreadyExsist(browser)):
-
-		add_build_step_button.click()
+		WebDriverWait(browser, 150).until(
+			expected_conditions.element_to_be_clickable((By.XPATH, "//button[text()='Add build step']"))).click()
 		WebDriverWait(browser, 150).until(
 			expected_conditions.element_to_be_clickable((By.XPATH, "//a[text()='Execute ZAP']"))).click()
-
 
 def SonarQube_AlreadyExsist(browser):
 
@@ -60,18 +56,13 @@ def ZAP_AlreadyExsist(browser):
 
 	return True
 
-
 def set_up_sonar(browser, properties):
 
 	sonar_properties = WebDriverWait(browser, 150).until(
 		expected_conditions.element_to_be_clickable((By.XPATH, "//textarea[@name='_.properties']")))
 	sonar_properties.clear()
 	sonar_properties.send_keys(properties)
-
-	sonar_arguments = WebDriverWait(browser, 150).until(
-		expected_conditions.element_to_be_clickable((By.XPATH, "//input[@id='textarea._.additionalArguments']")))
-	sonar_arguments.clear()
-	sonar_arguments.send_keys("-X")
+	browser.find_element_by_xpath("//input[@id='textarea._.additionalArguments']").send_keys("-X")
 
 
 def set_up_zap(browser, session_name, session_context_name, session_include_in_context):
@@ -80,52 +71,41 @@ def set_up_zap(browser, session_name, session_context_name, session_include_in_c
 		expected_conditions.element_to_be_clickable((By.XPATH, "//label[normalize-space(text())='System Installed: ZAP Installation Directory']/input")))
 	custom_tools_installation.click()
 
-	zap_setting_dir = WebDriverWait(browser, 150).until(
-		expected_conditions.element_to_be_clickable((By.XPATH, "//input[@name='_.zapSettingsDir']")))
+	zap_setting_dir = browser.find_element_by_xpath("//input[@name='_.zapSettingsDir']")
 	zap_setting_dir.clear()
 	zap_setting_dir.send_keys("d:\\Jenkins_ci\\ZedAttackProxy")
 
-	persist_session = WebDriverWait(browser, 150).until(
-		expected_conditions.element_to_be_clickable((By.XPATH, "//label[normalize-space(text())='Persist Session']/input")))
+	persist_session = browser.find_element_by_xpath("//label[normalize-space(text())='Persist Session']/input")
 	persist_session.click()
-	#persist_session.click()
+	persist_session.click()
 
-	session_name_field = WebDriverWait(browser, 150).until(
-		expected_conditions.element_to_be_clickable((By.XPATH, "//input[@checkdependson='sessionFilename']")))
+	session_name_field = browser.find_element_by_xpath("//input[@checkdependson='sessionFilename']")
 	session_name_field.clear()
 	session_name_field.send_keys(session_name)
 
-	session_context_name_field = WebDriverWait(browser, 150).until(
-		expected_conditions.element_to_be_clickable((By.XPATH, "//input[@name='_.contextName']")))
+	session_context_name_field = browser.find_element_by_xpath("//input[@name='_.contextName']")
 	session_context_name_field.clear()
 	session_context_name_field.send_keys(session_context_name)
 
-	session_include_in_context_field = WebDriverWait(browser, 150).until(
-		expected_conditions.element_to_be_clickable((By.XPATH, "//textarea[@name='_.includedURL']")))
+	session_include_in_context_field = browser.find_element_by_xpath("//textarea[@name='_.includedURL']")
 	session_include_in_context_field.clear()
 	session_include_in_context_field.send_keys(session_include_in_context)
 
-	generate_report = WebDriverWait(browser, 150).until(
-		expected_conditions.element_to_be_clickable((By.XPATH, "//input[@name='_.generateReports']")))
-	generate_report.click()
+	generate_report = browser.find_element_by_xpath("//input[@name='_.generateReports']")
 	generate_report.click()
 
-	generate_report_format = WebDriverWait(browser, 150).until(
-		expected_conditions.element_to_be_clickable((By.XPATH, "//select[@name='selectedReportFormats']/option[text()='html']")))
-	generate_report_format.click()
-
+	stupid2 = browser.find_element_by_xpath("//div[@class='form-config tabBarFrame']")
+	browser.execute_script("arguments[0].style = arguments[1]", stupid2, "display: none;")
 	#scanning options
-	spider_scan = WebDriverWait(browser, 150).until(
-		expected_conditions.element_to_be_clickable((By.XPATH, "//label[text()='Spider Scan']")))
-	spider_scan.click()
+	time.sleep(1)
+	spider_scan = browser.find_element_by_xpath("//label[text()='Spider Scan']")
 	spider_scan.click()
 
+	browser.execute_script("arguments[0].style = arguments[1]", stupid2, "display: ;")
 
 def set_up_zap_auth(browser, website_login_name, website_login_password, website_logged_in_indicator, login_form_target, username_parameter, password_parameter, starting_point):
 
-	auth = WebDriverWait(browser, 150).until(
-		expected_conditions.element_to_be_clickable((By.XPATH, "//input[@name='_.authMode']")))
-	auth.click()
+	auth = browser.find_element_by_xpath("//input[@name='_.authMode']")
 	auth.click()
 
 	auth_username_field = WebDriverWait(browser, 150).until(
@@ -163,11 +143,11 @@ def set_up_zap_auth(browser, website_login_name, website_login_password, website
 	starting_point_field.clear()
 	starting_point_field.send_keys(starting_point)
 
-#default user parameteres
+#user parameteres
 
 jenkins_username = "SIMSHEN"
 jenkins_password = "Zsh462404"
-driver_path = "C:/Users/SIMSHEN/Downloads/AutoWebSlave/geckodriver.exe"
+driver_path = 'C:/Users/SIMSHEN/Downloads/AutoWebSlave/chrome_driver.exe'
 jenkins_project_name = "slave"
 session_context_name = "Demo"
 session_include_in_context = "http://rip-my-professor.herokuapp.com.*"
@@ -179,7 +159,7 @@ username_parameter = "username"
 password_parameter = "password"
 starting_point = "http://rip-my-professor.herokuapp.com/admin/"
 
-#default optional parameters
+#optional parameters
 
 jenkins_project_initial_version = "1.0"
 jenkins_server_domain = "tst-ci.th.gov.bc.ca"
@@ -187,85 +167,11 @@ sonar_admin_username = "admin"
 sonar_admin_password = "test"
 sonar_auth = "false"
 session_name = "zap_session"
-authentication_required = True
 
 #parse info
 
-with open("configure.txt") as f:
-	content = f.readlines()
-
-for line in content:
-
-	if (line[0] != '#' and line[0] != '\n'):
-
-		name, value = line.rstrip('\n').split(' = ')
-
-		if (name == 'jenkins_username'):
-			jenkins_username = value
-			continue
-		if (name == 'jenkins_password'):
-			jenkins_password = value
-			continue
-		if (name == 'driver_path'):
-			driver_path = value
-			continue
-		if (name == 'jenkins_project_name'): 
-			jenkins_project_name = value
-			continue
-		if (name == 'session_context_name'):
-			session_context_name = value
-			continue
-		if (name == 'session_include_in_context'):
-			session_include_in_context = value;
-			continue
-		if (name == 'website_login_name'):
-			website_login_name = value
-			continue
-		if (name == 'website_login_password'):
-			website_login_password = value
-			continue
-		if (name == 'website_logged_in_indicator'):
-			website_logged_in_indicator = value
-			continue
-		if (name == 'login_form_target'):
-			login_form_target = value
-			continue
-		if (name == 'username_parameter'):
-			username_parameter = value
-			continue
-		if (name == 'password_parameter'):
-			password_parameter = value
-			continue
-		if (name == 'starting_point'):
-			starting_point = value
-			continue
-		if (name == 'jenkins_project_initial_version'):
-			jenkins_project_initial_version = value
-			continue
-		if (name == 'jenkins_server_domain'):
-			jenkins_server_domain = value;
-			continue
-		if (name == 'sonar_admin_username'):
-			sonar_admin_username = value
-			continue
-		if (name == 'sonar_admin_password'):
-			sonar_admin_password = value
-			continue
-		if (name == 'sonar_auth'):
-			sonar_auth = value
-			continue
-		if (name == 'session_name'):
-			session_name = value
-			continue
-		if (name == 'authentication_required'):
-			if (value == 'True'):authentication_required = True
-			elif (value == 'False'): authentication_required = False
-			continue
-		else:
-			raise Exception("Unknown parameter")
-
 url = "https://" + jenkins_server_domain + "/jenkins/job/" + jenkins_project_name + "/configure"
-firefox_driver = driver_path
+chrome_driver = driver_path
 properties = "sonar.projectKey = " + jenkins_project_name
 properties += "\nsonar.projectName = " + jenkins_project_name
 properties += "\nsonar.projectVersion = " + jenkins_project_initial_version
@@ -277,8 +183,8 @@ session_context_name += "%{BUILD_ID}"
 
 #main
 
-set_up_driver(firefox_driver)
-browser = webdriver.Firefox()
+set_up_driver(chrome_driver)
+browser = webdriver.Chrome()
 browser.get(url)
 
 #handle login page first
@@ -287,8 +193,9 @@ jenkins_login(jenkins_username, jenkins_password)
 #loading page and disable the save key
 try:
 	stupid = WebDriverWait(browser, 150).until(
-		expected_conditions.element_to_be_clickable((By.XPATH, "//div[@class='bottom-sticker-inner']")))
+	expected_conditions.element_to_be_clickable((By.XPATH, "//div[@class='bottom-sticker-inner']")))
 	browser.execute_script("arguments[0].style = arguments[1]", stupid, "display: none;")
+	time.sleep(1)
 
 except TimeoutException:
 	print ("Loading configuration page took too much time !")
@@ -313,9 +220,7 @@ except TimeoutException:
 try:
 	set_up_zap(browser, session_name, session_context_name, session_include_in_context)
 	#authentication
-	if (authentication_required):
-		set_up_zap_auth(browser, website_login_name, website_login_password, website_logged_in_indicator, login_form_target, username_parameter, password_parameter, starting_point)
-	
+	set_up_zap_auth(browser, website_login_name, website_login_password, website_logged_in_indicator, login_form_target, username_parameter, password_parameter, starting_point)
 	print ("zap plugin configuration finished!")
 
 except TimeoutException:
@@ -323,6 +228,7 @@ except TimeoutException:
 
 #recover the save button
 try:
+	stupid = browser.find_element_by_xpath("//div[@class='bottom-sticker-inner']")
 	browser.execute_script("arguments[0].style = arguments[1]", stupid, "display: ;")
 
 except:
